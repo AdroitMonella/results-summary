@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/AdroitMonella/results-summary
-- Live Site URL:
+- Live Site URL: https://adroitmonella.github.io/results-summary/
 
 ## My process
 
